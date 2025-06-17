@@ -19,34 +19,9 @@ The QR code is saved to the project folder as qr-code.png.
 
 🛠️ Technologies Used
 Node.js
-
 Inquirer
-
 qr-image
 
 Built-in fs module for file handling
 
-💡 How to Run
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/qr-code-generator.git
-cd qr-code-generator
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Run the app:
-
-bash
-Copy
-Edit
-node index.js
-Enter a URL or text when prompted.
-
-Find the generated qr-code.png in the project directory.
 
